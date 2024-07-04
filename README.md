@@ -1,3 +1,5 @@
+I have used the OpenSTL benchmark code (https://github.com/chengtan9907/OpenSTL) to answer my research question for my thesis: **Do people tend to look at those parts of videos that are well-predicted by neural networks, or rather that are not well-predicted?** To do this the tutorial.ipynb file was changed and data by Costela & Woods from 2019 was used. The exact data used and the training splits are also found in this repository.
+
 <p align="center" width="100%">
   <img src='https://github-production-user-asset-6210df.s3.amazonaws.com/44519745/246222783-fdda535f-e132-4fdd-8871-2408cd29a264.png' width="50%">
 </p>
